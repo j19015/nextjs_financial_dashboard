@@ -1,5 +1,8 @@
 # Next.js App Router Course Tutorial
 
+## チュートリアルURL
+https://nextjs.org/learn
+
 ## デプロイ先URL
 https://github.com/j19015/nextjs_financial_dashboard
 
