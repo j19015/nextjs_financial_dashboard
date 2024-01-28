@@ -13,4 +13,8 @@ https://github.com/j19015/nextjs_financial_dashboard
 
 - (example) feature/chapter(No.)
 
+## 期間
+
+- 約二週間
+
 
